@@ -18,8 +18,8 @@ This Python script scrapes map names from a Steam Workshop collection and saves 
 
 1. Clone this repository or download the script:
     ```bash
-    git clone https://github.com/ZoniBoy00/steam-maplist-creator.git
-    cd steam-maplist-creator
+    git clone https://github.com/ZoniBoy00/Steam-maplist-scraper.git
+    cd Steam-maplist-scraper
     ```
 
 2. Install the required Python libraries:

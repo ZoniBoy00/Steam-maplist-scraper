@@ -68,7 +68,7 @@ This is especially useful for generating maplists for game servers or personal u
 
 ### 🔹 Option 2: Run the .exe file
 
-1. Download the latest release from the [Releases](https://github.com/ZoniBoy00/Steam-maplist-scraper/releases) page.  
+1. Download the latest release from the [Releases](https://github.com/ZoniBoy00/Steam-maplist-scraper/releases/latest) page.  
 2. Extract the zip (if needed).  
 3. Double-click the `.exe` file to launch the application.  
    *(No installation or Python required.)*
